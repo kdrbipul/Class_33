@@ -10,14 +10,14 @@
 
 
 
-function add(first, second){
-    const result = first+second;
-    if(result > 9){
-        let mood = 'Happy';
-        console.log(mood);
-    }
-    return result;
-}
+// function add(first, second){
+//     const result = first+second;
+//     if(result > 9){
+//         let mood = 'Happy';
+//         console.log(mood);
+//     }
+//     return result;
+// }
 
-const sum = add(10,20);
-console.log(sum);
+// const sum = add(10,20);
+// console.log(sum);
